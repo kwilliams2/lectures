@@ -1,6 +1,7 @@
 from turtle import Turtle
 
-def regular_polygon(t: Turtle, length: int, num_sides: int):
+#def regular_polygon(t: Turtle, length: int, num_sides: int):
+
 
 def square(t: Turtle, length: int) -> None:
     """
