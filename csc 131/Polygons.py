@@ -52,6 +52,10 @@ def octogon(t: Turtle, length: int) -> None:
 def main() -> int:
     yertle = Turtle()
     square(yertle, 300)
+    hexagon(yertle, 300)
+    triangel(yertle, 300)
+    octogon(yertle, 300)
+
 
 if __name__ == '__main__':
     main()
