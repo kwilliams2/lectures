@@ -81,8 +81,6 @@ def main() -> int:
 #    octogon(yertle, 300)
     radial_pattern(yertle, 50, 100, square)
     screen.exitonclick()
-
-
 if __name__ == '__main__':
     main()
 
